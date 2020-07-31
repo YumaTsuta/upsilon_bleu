@@ -1,0 +1,3 @@
+One tokenized utterance is written per line.
+The corresponding reply is witten on the same line in "train.ref.rep".
+When the corresponding line in "train.label" file is 1, the utterance is the same with "train.hyp.utr".

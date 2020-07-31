@@ -1,0 +1,3 @@
+0 or 1 is written per line.
+This is the label of whether the utterances are the same between "valid.ref.utr" and "valid.hyp.utr" or not.
+When the corresponding line in "valid.label" file is 1, the utterances are the same between "valid.ref.utr" and "valid.hyp.utr", but the replies are different bewteen "valid.ref.rep" and "valid.hyp.rep".

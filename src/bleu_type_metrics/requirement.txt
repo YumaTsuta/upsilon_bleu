@@ -1,0 +1,10 @@
+numpy
+tqdm
+torch
+torchvision
+gensim
+mecab-python3
+sentencepiece
+scipy
+nltk
+scikit-learn

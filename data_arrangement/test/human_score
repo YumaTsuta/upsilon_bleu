@@ -1,0 +1,2 @@
+human scores concatenated with "," are written per line. (e.g "5,4,3" by three annotator.)
+The corresponding utterance or reference reply, generated response are witten on the same line in "ref.utr" or "ref.rep", "gen.rep".

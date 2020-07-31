@@ -1,0 +1,4 @@
+This folder is the sample of data arrangement.
+"corpus" folder includes dilaogues which is retrieved by each collection method (see src/bleu_type_metrics/data_collection).
+"train" folder includes dilaogues which is used for training of nn-rater or ruber.
+"test" folder includes dilaogues which is used for test of upsilon-bleu, delta-bleu or ruber.
